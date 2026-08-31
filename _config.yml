@@ -1,0 +1,9 @@
+title: M.I.J
+description: Curated Japan-made products, researched and reviewed for US shoppers.
+theme: minima
+lang: en
+
+# Amazon Associates disclosure — required to appear on the site once affiliate links go live.
+# See about.md for the full disclosure text.
+
+markdown: kramdown
