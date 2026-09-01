@@ -15,7 +15,7 @@ Not every "Japanese green tea" on Amazon is actually processed and packaged in J
 
 The company, 杉本製茶株式会社 (Sugimoto Tea Company Inc.), has been perfecting tea in Shimada City, Shizuoka — one of Japan's premier tea-growing regions — since 1946, and it shows in the cup: this is a bold, heavily roasted/steamed style built for people who want a tea with real presence, not something thin and grassy. The Sencha drinks closer to a black tea in body, which makes it a genuine discovery for anyone who's tried "Japanese green tea" before and found it underwhelming. But the real star is the Hojicha — a warm, toasty, deeply comforting cup with notes of rice cake, seaweed, and umami that make it feel like a completely different category of tea. We couldn't confirm this brand's presence on Amazon.co.jp in this research pass, but the manufacturing-origin claim is rock-solid regardless.
 
-[Check current price on Amazon →]
+[Check current price on Amazon →](https://www.amazon.com/dp/B00DDGRE0M?tag=yamanet1017-20)
 
 ## 2. Ocha & Co. Organic Sencha
 
@@ -23,7 +23,7 @@ The company, 杉本製茶株式会社 (Sugimoto Tea Company Inc.), has been perf
 
 This is the strongest recommendation on this entire list, full stop. The reputation isn't just good — it's the kind of loyalty that's hard to fake: people who've tried tea from dozens of brands keep singling this one out as the best they've ever had, and the real tell is behavioral, not just anecdotal — buyers run out and reorder immediately rather than ever switching brands. Expect a gorgeous golden-green cup, gentle bitterness, almost no astringency, and a deep, satisfying umami finish. In all our research, we didn't find a single notable complaint — that's rare, and worth taking seriously.
 
-[Check current price on Amazon →]
+[Check current price on Amazon →](https://www.amazon.com/dp/B06W9L1DCR?tag=yamanet1017-20)
 
 ## 3. Uji Matcha Kyo-no-hana (Ujitawara Seichajo Co., Ltd.)
 
@@ -31,7 +31,7 @@ This is the strongest recommendation on this entire list, full stop. The reputat
 
 We couldn't pin down review data for this exact matcha, but the manufacturer behind it has built an outstanding reputation in Japan — its storefront holds **4.82 out of 5 stars across 3,411 reviews** on Rakuten Japan, with buyers consistently raving about fast, careful shipping on top of the product itself. That's a shop-wide rating, not a per-product one, but it's a strong vote of confidence in exactly the kind of manufacturer you want behind a premium ceremonial matcha.
 
-[Check current price on Amazon →]
+[Check current price on Amazon →](https://www.amazon.com/dp/B0F3WZ8P9C?tag=yamanet1017-20)
 
 ---
 
