@@ -2,6 +2,7 @@
 layout: post
 title: "5 Genuinely Japan-Made Shampoos You Can Actually Buy on Amazon"
 date: 2026-08-31 12:00:00 +0000
+category: beauty
 ---
 
 Plenty of shampoos lean on "Japanese beauty" marketing without ever confirming where they're actually made. For this list, we only kept products where we could verify Japan as the country of manufacture from a credible source — and we checked each one's real-world reputation in Japan itself, not just its US marketing copy. What's left is five shampoos with a genuine track record, not a marketing story.

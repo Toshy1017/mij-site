@@ -2,6 +2,7 @@
 layout: post
 title: "4 Genuinely Japan-Made Kitchen Knives You Can Buy on Amazon"
 date: 2026-08-31 14:00:00 +0000
+category: kitchenware
 ---
 
 Japanese kitchen knives are one of the more honest corners of "Made in Japan" marketing on Amazon — most serious brands state their manufacturing origin explicitly, since it's a core part of what makes the product credible. All four picks below carry a direct "Made in Japan" claim on their Amazon.com listing, and all four have a confirmed, genuine following among Japanese home cooks too — not just an export-only reputation. If you've been cutting vegetables with a dull Western knife, any one of these will feel like a revelation.

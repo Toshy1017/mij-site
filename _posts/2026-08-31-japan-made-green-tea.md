@@ -2,6 +2,7 @@
 layout: post
 title: "3 Genuinely Japan-Made Green Teas You Can Buy on Amazon"
 date: 2026-08-31 13:00:00 +0000
+category: tea-beverages
 ---
 
 Not every "Japanese green tea" on Amazon is actually processed and packaged in Japan — some historic Japanese tea brands blend and package their US-market tea domestically in America, using Japan-grown leaf. For this list, we only kept teas where the actual tea-making step (not just the raw leaf) happens in Japan. What survived the cut are three genuinely exceptional teas worth clearing space in your pantry for.

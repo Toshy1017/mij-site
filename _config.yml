@@ -7,3 +7,11 @@ lang: en
 # See about.md for the full disclosure text.
 
 markdown: kramdown
+
+# Controls which pages show in the header nav — without this, minima
+# would list every page file (all 8 category pages + categories.md +
+# about.md), cluttering the header. Category pages are still reachable
+# via the Categories overview page and are indexed for SEO regardless.
+header_pages:
+  - categories.md
+  - about.md
