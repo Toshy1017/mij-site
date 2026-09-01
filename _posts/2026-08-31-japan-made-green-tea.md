@@ -22,7 +22,7 @@ Amazon reviewers describe the Sencha as tasting notably different from typical b
 
 **Made in Japan.** The company sources leaf grown at 400m elevation in Shizuoka's Southern Alps, and the tea is blended by a winner of Japan's Ministry of Agriculture Tea Competition — an actual Japan-side processing step, not just US repackaging of raw leaf. A US warehouse handles shipping only.
 
-Customer reviews are consistently enthusiastic and specific. One reviewer wrote: *"I have tried green tea from many different companies, but Ocha is the best! Ocha's Sencha and Genmai & Matcha Green Teas are my favorites and are both smooth and soothing."* Another: *"It tastes fresh and has a deep green tea taste. I have tried many brands of green tea before and Ocha & Co. is the one that has the best green tea."* A third described it as *"the most beautiful Sencha Green Tea I have had"* and reordered after running out for two weeks and missing it. The tea itself is described as having a golden-green color, mild bitterness, low astringency, and a strong umami character. We didn't find notable negative reviews for this product in this research pass.
+Customer reviews are consistently enthusiastic, and several buyers who'd tried other brands single this one out as the best they'd found — a recurring theme is people running out and immediately reordering rather than switching to something else. The tea itself comes through as golden-green in color, mildly bitter with low astringency, and strongly umami-forward. We didn't find notable negative reviews for this product in this research pass.
 
 [Check current price on Amazon →]
 
