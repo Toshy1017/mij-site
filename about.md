@@ -8,6 +8,8 @@ permalink: /about/
 
 M.I.J researches genuinely Japan-made products available to US shoppers, cross-checking each one against its actual reputation in the Japanese market — real reviews, real sales data — not just "Japan" marketing copy.
 
+**A note on our methodology:** our product assessments are conclusions we've formed by analyzing patterns across a large number of customer reviews and other public sources — they are not firsthand product testing. We write them as clear, direct opinions rather than a list of quotes, but that confidence reflects careful research, not personal use of the product.
+
 ## Affiliate Disclosure
 
 M.I.J is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. As an Amazon Associate, this site earns from qualifying purchases made through links on this site, at no additional cost to you.
