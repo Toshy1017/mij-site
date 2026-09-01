@@ -10,13 +10,15 @@ Japanese kitchen knives are one of the more honest corners of "Made in Japan" ma
 
 ## 1. Masamoto (Santoku / Gyuto / Sujihiki)
 
-**Made in Japan.** Masamoto (正本) has over 150 years of history and is widely regarded as Japan's top sushi-knife manufacturer. On Amazon.co.jp, Masamoto knives (deba and yanagiba styles) hold ratings in the **4.0–5.0 star range**, with Japan-market pricing running roughly ¥28,620–¥111,800 — a premium, professional-grade tier.
+**Made in Japan.** Masamoto (正本) has over 150 years of history and is widely regarded as Japan's top sushi-knife manufacturer. On Amazon.co.jp, Masamoto knives (deba and yanagiba styles) hold ratings in the **4.0–5.0 star range**, with Japan-market pricing running roughly ¥28,620–¥111,800 — a premium, professional-grade tier. Reviewers of the deba (fish-boning) knife specifically note that it arrives sharp out of the box and gets noticeably sharper still after honing on a whetstone, with strong praise for how cleanly it handles cutting through fish bone — a demanding test for any blade's edge geometry.
 
 [Check current price on Amazon →]
 
 ## 2. Global (Yoshikin)
 
-**Made in Japan** — manufactured by Yoshikin (Yoshida Metal Industry Co., Ltd.) at its Niigata factory since the line launched in 1985. Genuinely popular in Japan itself, not just abroad: one Amazon.co.jp Global-IST set holds **4.6 out of 5 stars across 373 ratings**, with reviewers praising sharpness and long-lasting edge retention. Japan even gets a domestic-exclusive "Global-IST" sub-line not sold internationally.
+**Made in Japan** — manufactured by Yoshikin (Yoshida Metal Industry Co., Ltd.) at its Niigata factory since the line launched in 1985. Genuinely popular in Japan itself, not just abroad: one Amazon.co.jp Global-IST set holds **4.6 out of 5 stars across 373 ratings**, with reviewers praising sharp, smooth push-cutting through vegetables, meat, and fish, and an edge that stays sharp for a long time between sharpenings. Japan even gets a domestic-exclusive "Global-IST" sub-line not sold internationally.
+
+Global's signature all-stainless, one-piece handle design draws consistently positive comments for fitting well even in smaller hands and staying grippy when wet — but it's also the most common point of friction: reviewers switching from a traditional wood handle sometimes need time to adjust to the different grip feel, some find the knife's balance heavier than expected (though others switching from wood handles report the opposite — finding it lighter than they'd assumed), and the knife requires hand-washing since it isn't dishwasher-safe.
 
 [Check current price on Amazon →]
 

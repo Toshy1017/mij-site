@@ -12,7 +12,7 @@ Plenty of shampoos lean on "Japanese beauty" marketing without ever confirming w
 
 **Made in Japan**, stated directly on the Amazon listing.
 
-A long-running, budget-friendly Japanese drugstore staple built around horse oil (馬油) and camellia oil for a moisturizing, non-silicone wash. In Japan, this line rates around **4.1 out of 5 stars across both a 718-review shampoo/conditioner set and a 1,241-review single-bottle variant** — a consistent signal across the product family. Reviewers there praise the rich, moisturizing finish and the strikingly low price for the amount of product; a minority note the horse-oil scent is noticeable and shampoo used alone (without the matching conditioner) can feel slightly drying.
+A long-running, budget-friendly Japanese drugstore staple built around horse oil (馬油) and camellia oil for a moisturizing, non-silicone wash. In Japan, this line rates around **4.1 out of 5 stars across both a 718-review shampoo/conditioner set and a 1,241-review single-bottle variant** — a consistent signal across the product family. One Japanese reviewer with long, straight hair who'd struggled with severe static from dryness reported a noticeable difference after a single wash. Others praise the rich, moisturizing finish and the strikingly low price for the amount of product — a 600ml bottle typically runs around ¥500 in Japan. On the downside, a minority note the horse-oil scent is noticeable, and shampoo used alone (without the matching conditioner) can feel slightly drying or leave hair feeling thin/watery to some users.
 
 [Check current price on Amazon →]
 
@@ -20,7 +20,7 @@ A long-running, budget-friendly Japanese drugstore staple built around horse oil
 
 **Made in Japan**, confirmed by a Japan-import retailer selling the same line, and consistent with TSUBAKI's position as Shiseido's flagship domestic Japanese hair-care brand.
 
-One of the most-reviewed shampoo brands on Japan's largest beauty review site (@cosme). The Premium EX Damage Care & Repair set holds **4.3 out of 5 stars across 714 ratings**, and the Premium Volume & Repair set holds **4.2 out of 5 across 60 ratings** — the strongest confirmed numeric ratings among the products in this list. Reviewers consistently praise the rich lather despite being silicone-free, and the smooth, non-tangling finish, especially paired with the matching conditioner. A minority find the shampoo alone slightly drying, and note the scent doesn't linger as long as they'd like.
+One of the most-reviewed shampoo brands on Japan's largest beauty review site (@cosme). The Premium EX Damage Care & Repair set holds **4.3 out of 5 stars across 714 ratings**, and the Premium Volume & Repair set holds **4.2 out of 5 across 60 ratings** — the strongest confirmed numeric ratings among the products in this list. Reviewers consistently praise the rich lather despite being silicone-free, and the smooth, non-tangling finish, especially paired with the matching conditioner. On the downside, some describe the cleansing feel as slightly "tight" or catching on the hair, and note the shampoo alone doesn't deliver the dramatic repair effect of pricier salon lines — reviewers with shorter or less-damaged hair tend to be more satisfied than those with long, heavily processed hair looking for a bigger transformation.
 
 [Check current price on Amazon →]
 
@@ -28,7 +28,7 @@ One of the most-reviewed shampoo brands on Japan's largest beauty review site (@
 
 **Made in Japan**, stated directly on the Amazon listing ("from Japan").
 
-Consistently ranks among the top-selling, most-reviewed shampoo brands in Japan (@cosme, LIPS), particularly the Extra Shine line. Japanese reviewers highlight the scent and visible damage-repair effect; a minority find the fragrance too strong for daily use.
+Consistently ranks among the top-selling, most-reviewed shampoo brands in Japan (@cosme, LIPS), particularly the Extra Shine line. Japanese reviewers highlight the rich lather, refreshing wash-off, and a wide range of repair ingredients. The fruity, sweet fragrance is polarizing — fans love it, but some (especially men, or those sensitive to strong scents) find it too much. A few reviewers also note that because the primary cleansing surfactant is fairly strong, the effect of the added conditioning ingredients can feel muted compared to gentler amino-acid-based formulas.
 
 [Check current price on Amazon →]
 
@@ -36,7 +36,7 @@ Consistently ranks among the top-selling, most-reviewed shampoo brands in Japan 
 
 **Made in Japan** — confirmed directly by the brand's own FAQ: *"All NatureLab. TOKYO products are created and produced in Japan."*
 
-Genuinely sold in the Japanese market too (not just a US-facing "Japan-inspired" line) — it's available on both Amazon.co.jp and Rakuten Japan, with real Japanese-language reviews. Reviewers there praise the bottle design and scent (cherry blossom, yuzu variants) and the smoothing/shine effect.
+Genuinely sold in the Japanese market too (not just a US-facing "Japan-inspired" line) — it's available on both Amazon.co.jp and Rakuten Japan, with real Japanese-language reviews. Reviewers there praise the bottle design and scent (cherry blossom, yuzu variants), a lather that reaches the scalp without feeling stripping, and a moisturizing, smooth, shiny finish. We didn't find much specific criticism in this research pass — reviews skewed strongly positive across the board, though as with any fragranced product, scent preference is inherently subjective.
 
 [Check current price on Amazon →]
 
@@ -44,7 +44,7 @@ Genuinely sold in the Japanese market too (not just a US-facing "Japan-inspired"
 
 **Made in Japan** — confirmed by Japan-import specialty retailers (TSUTAWA, TAKASKI.COM) that explicitly label the Kracie ICHIKAMI shampoo and treatment lines "Made in Japan." (The Amazon.com listing itself doesn't state this, but the underlying product is the same Kracie-manufactured line sold in Japan.)
 
-A well-established, mid-range Japanese drugstore brand. Reviewers there highlight a light, non-greasy finish and good lather, with many repeat buyers citing strong value for money. Some reviewers with drier or more sensitive hair/scalp find the formula insufficiently moisturizing.
+A well-established, mid-range Japanese drugstore brand. Reviewers there highlight a light, non-greasy finish and good lather, with many repeat buyers citing strong value for money. The most consistent criticism: used as a shampoo alone (without the matching conditioner), hair can feel tangly or rough right after washing — most reviewers say that goes away once the conditioner is added. A professional hairstylist review also described the formula's moisturizing/repair power as merely "so-so" rather than exceptional, though fine for everyday use. Ichikami also has a distinctive, fairly strong signature scent that reviewers describe as love-it-or-hate-it.
 
 [Check current price on Amazon →]
 
