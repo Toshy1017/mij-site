@@ -8,6 +8,13 @@ lang: en
 
 markdown: kramdown
 
+# Pin post URLs to a fixed pattern that does NOT include :categories.
+# Jekyll's default post permalink is /:categories/:year/:month/:day/:title.html,
+# so adding a `category:` front matter field (done for the site's tree
+# navigation) silently changed every post's URL and broke previously
+# shared links. This keeps URLs stable regardless of category changes.
+permalink: /:year/:month/:day/:title.html
+
 # Controls which pages show in the header nav — without this, minima
 # would list every page file (all 8 category pages + categories.md +
 # about.md), cluttering the header. Category pages are still reachable
