@@ -62,7 +62,7 @@ Our full research roadmap — 8 categories, 50+ subcategories. Published article
 ## [Stationery & Crafts]({{ "/category/stationery/" | relative_url }})
 
 **Pens & Pencils**
-- Gel ink pens, multi-pens, mechanical pencils, fountain pens, bottled ink, brush pens — not yet covered
+- Gel ink pens, multi-pens, mechanical pencils, fountain pens, bottled ink, brush pens — [3 Genuinely Japan-Made Pens]({{ "/2026/09/04/japan-made-pens-pencils.html" | relative_url }})
 
 **Notebooks & Planners**
 - Hobonichi Techo, Traveler's Notebook, Jibun Techo, Campus notebooks, MD Notebook, premium-paper notebooks — not yet covered
