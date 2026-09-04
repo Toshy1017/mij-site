@@ -82,7 +82,7 @@ Our full research roadmap — 8 categories, 50+ subcategories. Published article
 - Loopwheel sweatshirts, heavyweight T-shirts, sukajan (souvenir jackets), workwear-style jackets — [3 Genuinely Japan-Made Apparel Pieces]({{ "/2026/09/04/japan-made-apparel.html" | relative_url }})
 
 **Traditional & Loungewear**
-- Samue, jinbei, haori/kimono, hanten — not yet covered
+- Samue, jinbei, haori/kimono, hanten — [3 Genuinely Japan-Made Traditional Loungewear Pieces]({{ "/2026/09/04/japan-made-traditional-loungewear.html" | relative_url }})
 
 **Footwear & Socks**
 - Premium socks (Tabio/Anonymous Ism), tabi socks, jika-tabi, setta/zori — not yet covered
