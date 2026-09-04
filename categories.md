@@ -48,7 +48,7 @@ Our full research roadmap — 8 categories, 50+ subcategories. Published article
 - UV gel/essence (no white cast), spray & tone-up UV — [2 Genuinely Japan-Made Sunscreens]({{ "/2026/09/02/japan-made-sun-protection.html" | relative_url }})
 
 **Cleansing & Facial Wash**
-- Cleansing oil, enzyme facial powder, foam/bar cleansers, cleansing balm — not yet covered
+- Cleansing oil, enzyme facial powder, foam/bar cleansers, cleansing balm — [2 Genuinely Japan-Made Cleansers]({{ "/2026/09/04/japan-made-cleansing-facial-wash.html" | relative_url }})
 
 **Skincare**
 - High-hydration essence/lotion, sheet masks, fermented whitening serum, eye cream & lip balm — not yet covered
