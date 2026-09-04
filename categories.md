@@ -76,7 +76,7 @@ Our full research roadmap — 8 categories, 50+ subcategories. Published article
 ## [Apparel & Textiles]({{ "/category/apparel/" | relative_url }})
 
 **Japanese Denim**
-- Selvedge (raw) denim, aizome (indigo-dyed) pieces, vintage-cut denim jackets — not yet covered
+- Selvedge (raw) denim, aizome (indigo-dyed) pieces, vintage-cut denim jackets — [3 Genuinely Japan-Made Denim Pieces]({{ "/2026/09/04/japanese-denim.html" | relative_url }})
 
 **Apparel**
 - Loopwheel sweatshirts, heavyweight T-shirts, sukajan (souvenir jackets), workwear-style jackets — not yet covered
