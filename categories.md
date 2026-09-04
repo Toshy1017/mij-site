@@ -96,15 +96,15 @@ Our full research roadmap — 8 categories, 50+ subcategories. Published article
 - Regional Kit Kat flavors, Pocky/Pretz, Jagarico, kaki no tane, gummies, mochi sweets, Tokyo Banana-style gifts — not yet covered
 
 **Seasonings & Umami**
-- Kewpie mayonnaise, craft/barrel-aged soy sauce, ponzu, furikake, dashi packs, miso, yuzu kosho, shichimi, rice vinegar — not yet covered
+- Kewpie mayonnaise, craft/barrel-aged soy sauce, ponzu, furikake, dashi packs, miso, yuzu kosho, shichimi, rice vinegar — [4 Genuinely Japan-Made Seasonings That Actually Earn the Name]({{ "/2026/09/05/japan-made-seasonings-umami.html" | relative_url }})
 
 **Staples & Noodles**
-- Branded Japanese rice, premium instant ramen, dried soba/udon/somen, curry roux, specialty canned goods — not yet covered
+- Branded Japanese rice, premium instant ramen, dried soba/udon/somen, curry roux, specialty canned goods — [4 Genuinely Japan-Made Japanese Pantry Staples]({{ "/2026/09/05/japan-made-staples-noodles.html" | relative_url }})
 
 ## [Home, Interior & Crafts]({{ "/category/home-interior/" | relative_url }})
 
 **Interior & Bedding**
-- Japanese futon, tatami/igusa mats, noren, furin (wind chimes), paper lanterns — not yet covered
+- Japanese futon, tatami/igusa mats, noren, furin (wind chimes), paper lanterns — [4 Genuinely Japan-Made Pieces for a Traditional Japanese Interior]({{ "/2026/09/05/japan-made-interior-bedding.html" | relative_url }})
 
 **Crafts & Daily Goods**
 - Tawashi brushes, tenugui, furoshiki, incense, Edo/Satsuma kiriko cut glass, urushi lacquerware, kintsugi kits — not yet covered
