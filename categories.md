@@ -71,7 +71,7 @@ Our full research roadmap — 8 categories, 50+ subcategories. Published article
 - Tomoe River paper, washi, sticky notes/index tabs — [3 Genuinely Japan-Made Paper Products]({{ "/2026/09/04/japan-made-paper-goods.html" | relative_url }})
 
 **Craft & Decoration Tools**
-- Washi tape (masking tape), decorative stamps, utility knives, compact scissors, correction/glue tape — not yet covered
+- Washi tape (masking tape), decorative stamps, utility knives, compact scissors, correction/glue tape — [3 Genuinely Japan-Made Craft & Desk Tools]({{ "/2026/09/04/japan-made-craft-decoration-tools.html" | relative_url }})
 
 ## [Apparel & Textiles]({{ "/category/apparel/" | relative_url }})
 
