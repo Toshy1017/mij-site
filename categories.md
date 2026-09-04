@@ -51,7 +51,7 @@ Our full research roadmap — 8 categories, 50+ subcategories. Published article
 - Cleansing oil, enzyme facial powder, foam/bar cleansers, cleansing balm — [2 Genuinely Japan-Made Cleansers]({{ "/2026/09/04/japan-made-cleansing-facial-wash.html" | relative_url }})
 
 **Skincare**
-- High-hydration essence/lotion, sheet masks, fermented whitening serum, eye cream & lip balm — not yet covered
+- High-hydration essence/lotion, sheet masks, fermented whitening serum, eye cream & lip balm — [3 Genuinely Japan-Made Skincare Staples]({{ "/2026/09/04/japan-made-skincare.html" | relative_url }})
 
 **Hair Care**
 - Premium hair masks/treatments, hair oil (camellia/yuzu), carbonated shampoo & scalp care — [5 Genuinely Japan-Made Shampoos]({{ "/2026/08/31/top-japan-made-shampoo.html" | relative_url }})
