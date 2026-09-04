@@ -57,7 +57,7 @@ Our full research roadmap — 8 categories, 50+ subcategories. Published article
 - Premium hair masks/treatments, hair oil (camellia/yuzu), carbonated shampoo & scalp care — [5 Genuinely Japan-Made Shampoos]({{ "/2026/08/31/top-japan-made-shampoo.html" | relative_url }})
 
 **Body & Bath**
-- Bath salts/onsen powder, body towels, hand cream, nail clippers — not yet covered
+- Bath salts/onsen powder, body towels, hand cream, nail clippers — [3 Genuinely Japan-Made Body & Bath Essentials]({{ "/2026/09/04/japan-made-body-bath.html" | relative_url }})
 
 ## [Stationery & Crafts]({{ "/category/stationery/" | relative_url }})
 
