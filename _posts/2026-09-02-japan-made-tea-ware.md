@@ -29,4 +29,4 @@ Good tea deserves tools that don't fight it — a whisk that actually froths mat
 
 ---
 
-*This site participates in the Amazon Associates program — see our [About page](/about/) for the full disclosure.*
+*This site participates in the Amazon Associates program — see our [About page]({{ "/about/" | relative_url }}) for the full disclosure.*

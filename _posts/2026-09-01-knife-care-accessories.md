@@ -29,4 +29,4 @@ A great Japanese knife deserves proper care — and the right whetstone or saya 
 
 ---
 
-*This site participates in the Amazon Associates program — see our [About page](/about/) for the full disclosure.*
+*This site participates in the Amazon Associates program — see our [About page]({{ "/about/" | relative_url }}) for the full disclosure.*

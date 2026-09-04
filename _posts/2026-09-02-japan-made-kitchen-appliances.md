@@ -29,4 +29,4 @@ These aren't just Japanese-branded appliances — they're the actual models Japa
 
 ---
 
-*This site participates in the Amazon Associates program — see our [About page](/about/) for the full disclosure.*
+*This site participates in the Amazon Associates program — see our [About page]({{ "/about/" | relative_url }}) for the full disclosure.*

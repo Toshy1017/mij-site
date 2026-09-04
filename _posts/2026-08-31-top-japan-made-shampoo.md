@@ -53,4 +53,4 @@ This is the everyday-hero pick — a beloved, well-established Japanese drugstor
 
 *We also researched MyKirei by KAO, a brand that markets heavily on Japanese ingredients — but its manufacturer of record is listed as Kao USA, Inc., and it was launched specifically as a new US-market brand in 2020. We couldn't verify it as Japan-made, and it doesn't appear to be sold in Japan at all, so we left it off this list.*
 
-*This site participates in the Amazon Associates program — see our [About page](/about/) for the full disclosure.*
+*This site participates in the Amazon Associates program — see our [About page]({{ "/about/" | relative_url }}) for the full disclosure.*

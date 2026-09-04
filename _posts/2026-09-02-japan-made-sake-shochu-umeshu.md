@@ -29,4 +29,4 @@ Iichiko essentially defined modern barley shochu, and Frasco sits at the top of 
 
 ---
 
-*This site participates in the Amazon Associates program — see our [About page](/about/) for the full disclosure. As noted above, alcohol products do not earn commission under this program.*
+*This site participates in the Amazon Associates program — see our [About page]({{ "/about/" | relative_url }}) for the full disclosure. As noted above, alcohol products do not earn commission under this program.*

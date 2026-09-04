@@ -37,4 +37,4 @@ We couldn't pin down review data for this exact matcha, but the manufacturer beh
 
 *We also researched Yamamotoyama, a historic Japanese tea company (est. 1690s) — but the company's own materials state that Yamamotoyama U.S.A. blends, packages, and ships its US-market tea from the United States, using leaf sourced from Japan and Brazil. Since the actual tea-making step happens domestically in the US rather than Japan, we left it off this list.*
 
-*This site participates in the Amazon Associates program — see our [About page](/about/) for the full disclosure.*
+*This site participates in the Amazon Associates program — see our [About page]({{ "/about/" | relative_url }}) for the full disclosure.*

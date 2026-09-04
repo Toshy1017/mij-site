@@ -35,4 +35,4 @@ Some kitchen tools are just tools. These four are closer to a craft tradition yo
 
 ---
 
-*This site participates in the Amazon Associates program — see our [About page](/about/) for the full disclosure.*
+*This site participates in the Amazon Associates program — see our [About page]({{ "/about/" | relative_url }}) for the full disclosure.*
