@@ -79,7 +79,7 @@ Our full research roadmap — 8 categories, 50+ subcategories. Published article
 - Selvedge (raw) denim, aizome (indigo-dyed) pieces, vintage-cut denim jackets — [3 Genuinely Japan-Made Denim Pieces]({{ "/2026/09/04/japanese-denim.html" | relative_url }})
 
 **Apparel**
-- Loopwheel sweatshirts, heavyweight T-shirts, sukajan (souvenir jackets), workwear-style jackets — not yet covered
+- Loopwheel sweatshirts, heavyweight T-shirts, sukajan (souvenir jackets), workwear-style jackets — [3 Genuinely Japan-Made Apparel Pieces]({{ "/2026/09/04/japan-made-apparel.html" | relative_url }})
 
 **Traditional & Loungewear**
 - Samue, jinbei, haori/kimono, hanten — not yet covered
