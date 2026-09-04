@@ -68,7 +68,7 @@ Our full research roadmap — 8 categories, 50+ subcategories. Published article
 - Hobonichi Techo, Traveler's Notebook, Jibun Techo, Campus notebooks, MD Notebook, premium-paper notebooks — [3 Genuinely Japan-Made Notebooks]({{ "/2026/09/04/japan-made-notebooks-planners.html" | relative_url }})
 
 **Paper Goods**
-- Tomoe River paper, washi, sticky notes/index tabs — not yet covered
+- Tomoe River paper, washi, sticky notes/index tabs — [3 Genuinely Japan-Made Paper Products]({{ "/2026/09/04/japan-made-paper-goods.html" | relative_url }})
 
 **Craft & Decoration Tools**
 - Washi tape (masking tape), decorative stamps, utility knives, compact scissors, correction/glue tape — not yet covered
