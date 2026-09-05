@@ -8,6 +8,13 @@ lang: en
 
 markdown: kramdown
 
+# Without this, Jekyll silently excludes any post whose date/time is
+# later than the build server's clock. Every post published on or after
+# 2026-09-05 was 404ing on GitHub Pages because of this — the posts
+# exist in the repo and the build succeeds, they're just filtered out
+# of site.posts (and therefore out of the generated site) at build time.
+future: true
+
 # Pin post URLs to a fixed pattern that does NOT include :categories.
 # Jekyll's default post permalink is /:categories/:year/:month/:day/:title.html,
 # so adding a `category:` front matter field (done for the site's tree
