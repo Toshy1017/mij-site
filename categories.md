@@ -107,7 +107,7 @@ Our full research roadmap — 8 categories, 50+ subcategories. Published article
 - Japanese futon, tatami/igusa mats, noren, furin (wind chimes), paper lanterns — [4 Genuinely Japan-Made Pieces for a Traditional Japanese Interior]({{ "/2026/09/05/japan-made-interior-bedding.html" | relative_url }})
 
 **Crafts & Daily Goods**
-- Tawashi brushes, tenugui, furoshiki, incense, Edo/Satsuma kiriko cut glass, urushi lacquerware, kintsugi kits — not yet covered
+- Tawashi brushes, tenugui, furoshiki, incense, Edo/Satsuma kiriko cut glass, urushi lacquerware, kintsugi kits — [8 Genuinely Japan-Made Crafts and Daily Goods]({{ "/2026/09/05/japan-made-crafts-daily-goods.html" | relative_url }})
 
 ## [Hobbies, Collectibles & Tech]({{ "/category/hobbies-tech/" | relative_url }})
 
