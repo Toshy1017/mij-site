@@ -85,15 +85,15 @@ Our full research roadmap — 8 categories, 50+ subcategories. Published article
 - Samue, jinbei, haori/kimono, hanten — [3 Genuinely Japan-Made Traditional Loungewear Pieces]({{ "/2026/09/04/japan-made-traditional-loungewear.html" | relative_url }})
 
 **Footwear & Socks**
-- Premium socks (Tabio/Anonymous Ism), tabi socks, jika-tabi, setta/zori — not yet covered
+- Premium socks (Tabio/Anonymous Ism), tabi socks, jika-tabi, setta/zori — [9 Genuinely Japan-Made Socks and Footwear]({{ "/2026/09/05/japan-made-footwear-socks.html" | relative_url }})
 
 **Bags & Accessories**
-- Canvas totes, randoseru, inden leatherware — not yet covered
+- Canvas totes, randoseru, inden leatherware — [6 Genuinely Japan-Made Bags and Leather Accessories]({{ "/2026/09/05/japan-made-bags-accessories.html" | relative_url }})
 
 ## [Snacks, Food & Seasonings]({{ "/category/food-snacks/" | relative_url }})
 
 **Snacks & Sweets**
-- Regional Kit Kat flavors, Pocky/Pretz, Jagarico, kaki no tane, gummies, mochi sweets, Tokyo Banana-style gifts — not yet covered
+- Regional Kit Kat flavors, Pocky/Pretz, Jagarico, kaki no tane, gummies, mochi sweets, Tokyo Banana-style gifts — [7 Genuinely Japan-Made Snacks and Sweets Worth Importing]({{ "/2026/09/05/japan-made-snacks-sweets.html" | relative_url }})
 
 **Seasonings & Umami**
 - Kewpie mayonnaise, craft/barrel-aged soy sauce, ponzu, furikake, dashi packs, miso, yuzu kosho, shichimi, rice vinegar — [4 Genuinely Japan-Made Seasonings That Actually Earn the Name]({{ "/2026/09/05/japan-made-seasonings-umami.html" | relative_url }})
