@@ -112,7 +112,7 @@ Our full research roadmap — 8 categories, 50+ subcategories. Published article
 ## [Hobbies, Collectibles & Tech]({{ "/category/hobbies-tech/" | relative_url }})
 
 **Hobbies & Model Kits**
-- Gunpla/plastic models, anime figures, trading cards, wooden puzzles — not yet covered
+- Gunpla/plastic models, anime figures, trading cards, wooden puzzles — [Gunpla and Anime Figures Aren't Actually Made in Japan — Here's What Is]({{ "/2026/09/05/japan-made-hobbies-model-kits.html" | relative_url }})
 
 **Audio, Camera & Gadgets**
 - Premium headphones/earphones, audio cables, cameras & lenses, film cameras — not yet covered
