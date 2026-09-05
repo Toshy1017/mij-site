@@ -115,4 +115,4 @@ Our full research roadmap — 8 categories, 50+ subcategories. Published article
 - Gunpla/plastic models, anime figures, trading cards, wooden puzzles — [Gunpla and Anime Figures Aren't Actually Made in Japan — Here's What Is]({{ "/2026/09/05/japan-made-hobbies-model-kits.html" | relative_url }})
 
 **Audio, Camera & Gadgets**
-- Premium headphones/earphones, audio cables, cameras & lenses, film cameras — not yet covered
+- Premium headphones/earphones, audio cables, cameras & lenses, film cameras — [5 Genuinely Japan-Made Audio and Camera Picks (Watch the Fujifilm Label)]({{ "/2026/09/05/japan-made-audio-camera-gadgets.html" | relative_url }})
